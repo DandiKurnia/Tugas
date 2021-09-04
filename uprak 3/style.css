@@ -1,0 +1,33 @@
+.jumbotron{
+    height: 300px;
+    background-image: url(https://images.pexels.com/photos/12064/pexels-photo-12064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+    background-position-y: -100px;
+}
+
+.judullist{
+    height: 40px;
+    text-align: center;
+}
+
+.carousel-inner{
+  height: 650px;
+}
+
+nav ul li a {
+  font-weight: bold;
+  padding: 0px 16px 0px 16px
+
+}
+
+nav{
+    width: 100%;
+    margin:auto;
+    display: flex;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background: #ffffff;
+    z-index: 1;
+    
+}
